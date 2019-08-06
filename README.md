@@ -2,15 +2,10 @@
 
 Bridge with native Sumup SDK, supporting Air, Air Lite or PIN+ Terminal
 
-/!\            WORK IN PROGRESS            /!\  
-||| Currently still testing and developing |||  
-||| full implementation of the SDK.        |||  
-||| a light usable version of this SDK will|||  
-||| be provided soon. Optional things like |||  
-||| tips, receipts, additionnal infos...   |||  
-||| are not the priority and will be       |||  
-||| integrated in future versions          |||  
-\!/            WORK IN PROGRESS            \!/  
+/!\ WORK IN PROGRESS /!\  
+Currently still testing and developing full implementation of the SDK. A light well-tested version 
+of this SDK will be provided soon. Optional things like tips, receipts, additionnal infos...  are 
+not the priority and will be integrated in future versions.
 
 Feel free to add your contribution to this project by submitting pull request or opening issues
 
