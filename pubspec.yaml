@@ -2,7 +2,7 @@ name: sumup_flutter
 description: Bridge with native Sumup SDK, supporting Air, Air Lite or PIN+ Terminal
 version: 0.0.1
 author: Florent Huran
-homepage:
+homepage: https://github.com/florent-huran/sumup-flutter
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
