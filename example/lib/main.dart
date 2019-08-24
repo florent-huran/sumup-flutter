@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
     String platformVersion;
     // Platform messages may fail, so we use a try/catch PlatformException.
     await SumupFlutter.authenticate("aeb8452f-8e21-4a4d-84ae-7cb3a2a5ba27");
-    await SumupFlutter.presentLoginView()
+    await SumupFlutter.presentLoginView();
 
 
     // If the widget was removed from the tree while the asynchronous platform

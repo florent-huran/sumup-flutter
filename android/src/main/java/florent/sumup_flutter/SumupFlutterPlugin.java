@@ -6,6 +6,7 @@ import android.content.Intent;
 import com.sumup.merchant.api.SumUpAPI;
 import com.sumup.merchant.api.SumUpLogin;
 import com.sumup.merchant.api.SumUpPayment;
+import com.sumup.merchant.api.SumUpState;
 import com.sumup.merchant.ui.Activities.SumUpBaseActivity;
 
 import java.math.BigDecimal;
@@ -27,6 +28,7 @@ public class SumupFlutterPlugin implements MethodCallHandler, PluginRegistry.Act
 
   private SumupFlutterPlugin(Activity activity) {
     this.activity = activity;
+    SumUpState.init(this.activity);
   }
 
   /** Plugin registration. */

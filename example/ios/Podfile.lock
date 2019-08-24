@@ -20,8 +20,8 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/sumup_flutter/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
-  sumup_flutter: 36dc96ea438063ef61bb8cc1178caa430a58d2b7
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  sumup_flutter: 4ef15c8f680a877729732e6c66a81621a7589bfc
   SumUpSDK: ad134a6bb8b77ec68ad747cf0463ecb58752a2b9
 
 PODFILE CHECKSUM: e1c7486512bd49f3d4301b58a9cd90538bff5b4b

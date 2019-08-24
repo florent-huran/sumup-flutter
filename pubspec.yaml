@@ -1,6 +1,6 @@
 name: sumup_flutter
 description: Bridge with native Sumup SDK, supporting Air, Air Lite or PIN+ Terminal
-version: 0.0.1
+version: 0.0.2
 author: Florent Huran <florent@mobiten.com>
 homepage: https://github.com/florent-huran/sumup-flutter
 
