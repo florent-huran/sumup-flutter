@@ -27,7 +27,7 @@ appearing.
 To authenticate, just call the following at application launch: 
 
 ~~~~
-SumupFlutter.authenticate("aeb8452f-8e21-4a4d-84ae-7cb3a2a5ba27");
+SumupFlutter.authenticate("aeb8452f-XXXX-XXXX-XXXX-7cb3a2a5ba27");
 ~~~~
 
 ### Show login window
