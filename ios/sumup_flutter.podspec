@@ -17,6 +17,7 @@ Sumup Payment terminal handling in flutter
   s.dependency 'Flutter'
   s.dependency 'SumUpSDK'
   s.ios.deployment_target = '8.0'
+  s.swift_version = '4.1'
   s.static_framework = true
 end
 
